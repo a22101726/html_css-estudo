@@ -1,0 +1,32 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    margin: auto;
+    max-width: auto;
+    width: 1200px;
+    padding: 0;
+}
+
+.title{
+    text-align: center;
+}
+.subTitle{
+    text-align: center;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+}
+
+.btnEmpregos button{
+    background-color: black;
+    color: white;
+    margin: 10px;
+    padding: 9px 10px;
+    border-radius: 4px;
+}
+
+.paragrafo{
+    text-align: justify;
+}
