@@ -20,6 +20,7 @@ body{
 }
 
 .btnEmpregos button{
+    cursor:pointer;
     background-color: black;
     color: white;
     margin: 10px;
