@@ -1,0 +1,27 @@
+*{
+    font-family: sans-serif;
+}
+
+body{
+    background-color: #1b1b1b;
+    background-repeat: no-repeat;   
+}
+
+.title{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-top: 150px;
+    row-gap: 10px;
+}
+
+.text1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+ 
+.button-player{
+    display: flex;
+    justify-content:center;
+    column-gap: 30px;
+    padding-top: 20px;
+}
