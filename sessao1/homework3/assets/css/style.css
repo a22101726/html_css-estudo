@@ -1,0 +1,28 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background: #2F1893;
+    margin: auto;
+    max-width: auto;
+    width: 1200px;
+    padding: 0;
+}
+.title{
+    display: flex;
+    justify-content:space-around;
+}
+.title img{
+    padding-top: 10px;
+    height: 60px;
+}
+.flex-container-one{
+    display: flex;
+    justify-content: center; 
+    column-gap: 30px;  
+}
+.flex-container-two{
+    display: flex;
+    justify-content: center; 
+    column-gap: 30px; 
+}
